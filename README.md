@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/dekracloud/Cloud%20Team/_apis/build/status%2Ftailspin-spacegame-web-ci?branchName=main)](https://dev.azure.com/dekracloud/Cloud%20Team/_build/latest?definitionId=1605&branchName=main)
+
 
 # Contributing
 
