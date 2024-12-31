@@ -36,6 +36,7 @@ while IFS= read -r branch; do
     git clean -xdf
     # Merge down main
     git merge --no-ff main
+
     # Break out if merge failed
     if [ $? -ne 0 ]; then
         break
